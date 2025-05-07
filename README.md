@@ -1,4 +1,4 @@
-# Lab 5 - Starter
+# Lab 5 - CSE 110
 Aaron Joshua Delacruz
 
 [Expose](https://aldclab.github.io/CSE110-Lab5/expose.html)  
